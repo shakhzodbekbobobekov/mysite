@@ -1,3 +1,2 @@
-# my name is shokir
+# my web site
 
-*Nima gaplar shokir* 
